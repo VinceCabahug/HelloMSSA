@@ -1,2 +1,2 @@
 # HelloMSSA
-First Program
+MyProgram
